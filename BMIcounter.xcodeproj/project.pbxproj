@@ -16,6 +16,7 @@
 		6027EB432916441E003A087A /* BMIcounterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6027EB422916441E003A087A /* BMIcounterTests.swift */; };
 		6027EB4D2916441E003A087A /* BMIcounterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6027EB4C2916441E003A087A /* BMIcounterUITests.swift */; };
 		6027EB4F2916441E003A087A /* BMIcounterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6027EB4E2916441E003A087A /* BMIcounterUITestsLaunchTests.swift */; };
+		6027EB5C29164661003A087A /* earmuff.png in Resources */ = {isa = PBXBuildFile; fileRef = 6027EB5B29164661003A087A /* earmuff.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6027EB482916441E003A087A /* BMIcounterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BMIcounterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6027EB4C2916441E003A087A /* BMIcounterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMIcounterUITests.swift; sourceTree = "<group>"; };
 		6027EB4E2916441E003A087A /* BMIcounterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMIcounterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6027EB5B29164661003A087A /* earmuff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = earmuff.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				6027EB2D29164417003A087A /* SceneDelegate.swift */,
 				6027EB2F29164417003A087A /* ViewController.swift */,
 				6027EB3129164417003A087A /* Main.storyboard */,
+				6027EB5B29164661003A087A /* earmuff.png */,
 				6027EB342916441E003A087A /* Assets.xcassets */,
 				6027EB362916441E003A087A /* LaunchScreen.storyboard */,
 				6027EB392916441E003A087A /* Info.plist */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6027EB5C29164661003A087A /* earmuff.png in Resources */,
 				6027EB382916441E003A087A /* LaunchScreen.storyboard in Resources */,
 				6027EB352916441E003A087A /* Assets.xcassets in Resources */,
 				6027EB3329164417003A087A /* Main.storyboard in Resources */,
