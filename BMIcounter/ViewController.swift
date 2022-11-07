@@ -40,7 +40,7 @@ class ViewController: UIViewController {
         else if bmi >= 25 && bmi < 30 {
             body = "1단계 비만"
         }
-        else if bmi >= 1.85 && bmi < 25 {
+            else if bmi >= 18.5 && bmi < 25 {
             body = "정상"
         }
         else{
