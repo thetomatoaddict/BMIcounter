@@ -47,7 +47,7 @@ class ViewController: UIViewController {
             body = "저체중"
         }
         
-        txtResult.text = "BMI:\(shortenedBMI), 판정:\(body)"
+        txtResult.text = "BMI:\(shortenedBMI), 판정:\(body)" //실제출력부분
         print("BMI:\(shortenedBMI), 판정:\(body)")
             
     }
